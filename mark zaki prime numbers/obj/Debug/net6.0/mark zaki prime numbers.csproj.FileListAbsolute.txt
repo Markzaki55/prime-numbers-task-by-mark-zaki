@@ -1,0 +1,15 @@
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.csproj.AssemblyReference.cache
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.AssemblyInfoInputs.cache
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.AssemblyInfo.cs
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\bin\Debug\net6.0\mark zaki prime numbers.exe
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\bin\Debug\net6.0\mark zaki prime numbers.deps.json
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\bin\Debug\net6.0\mark zaki prime numbers.runtimeconfig.json
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\bin\Debug\net6.0\mark zaki prime numbers.dll
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\bin\Debug\net6.0\mark zaki prime numbers.pdb
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.dll
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\refint\mark zaki prime numbers.dll
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.pdb
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\mark zaki prime numbers.genruntimeconfig.cache
+C:\Users\Dream CE\source\repos\mark zaki prime numbers\mark zaki prime numbers\obj\Debug\net6.0\ref\mark zaki prime numbers.dll
